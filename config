@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 4.20.0-gentoo Kernel Configuration
+# Linux/x86 4.20.2-gentoo Kernel Configuration
 #
 
 #
@@ -1782,7 +1782,7 @@ CONFIG_I2C_I801=m
 # CONFIG_I2C_ISMT is not set
 # CONFIG_I2C_PIIX4 is not set
 # CONFIG_I2C_NFORCE2 is not set
-CONFIG_I2C_NVIDIA_GPU=m
+# CONFIG_I2C_NVIDIA_GPU is not set
 # CONFIG_I2C_SIS5595 is not set
 # CONFIG_I2C_SIS630 is not set
 # CONFIG_I2C_SIS96X is not set
@@ -2879,6 +2879,7 @@ CONFIG_USB_STORAGE=m
 # CONFIG_USB_ISP1301 is not set
 # CONFIG_USB_GADGET is not set
 # CONFIG_TYPEC is not set
+# CONFIG_USB_ROLE_SWITCH is not set
 # CONFIG_USB_ULPI_BUS is not set
 # CONFIG_UWB is not set
 # CONFIG_MMC is not set
