@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 6.0.1-gentoo Kernel Configuration
+# Linux/x86 6.0.6-gentoo Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="gcc (Gentoo 11.3.1_p20221007 p2) 11.3.1 20221007"
 CONFIG_CC_IS_GCC=y
@@ -395,7 +395,6 @@ CONFIG_X86_INTEL_MEMORY_PROTECTION_KEYS=y
 # CONFIG_X86_INTEL_TSX_MODE_OFF is not set
 # CONFIG_X86_INTEL_TSX_MODE_ON is not set
 CONFIG_X86_INTEL_TSX_MODE_AUTO=y
-# CONFIG_X86_SGX is not set
 CONFIG_EFI=y
 CONFIG_EFI_STUB=y
 CONFIG_EFI_MIXED=y
@@ -3309,6 +3308,7 @@ CONFIG_PANTHERLORD_FF=y
 # CONFIG_HID_SMARTJOYPLUS is not set
 # CONFIG_HID_TIVO is not set
 # CONFIG_HID_TOPSEED is not set
+# CONFIG_HID_TOPRE is not set
 # CONFIG_HID_THINGM is not set
 # CONFIG_HID_THRUSTMASTER is not set
 # CONFIG_HID_UDRAW_PS3 is not set
@@ -4648,6 +4648,7 @@ CONFIG_DEBUG_BUGVERBOSE=y
 #
 # Compile-time checks and compiler options
 #
+CONFIG_AS_HAS_NON_CONST_LEB128=y
 CONFIG_FRAME_WARN=2048
 CONFIG_STRIP_ASM_SYMS=y
 # CONFIG_HEADERS_INSTALL is not set
