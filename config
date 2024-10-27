@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 6.11.4-gentoo Kernel Configuration
+# Linux/x86 6.11.5-gentoo Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="AMD clang version 17.0.6 (CLANG: AOCC_5.0.0-Build1377 2024_09_24)"
 CONFIG_GCC_VERSION=0
@@ -335,8 +335,8 @@ CONFIG_X86_SUPPORTS_MEMORY_FAILURE=y
 CONFIG_MZEN3=y
 # CONFIG_MZEN4 is not set
 # CONFIG_MPSC is not set
-# CONFIG_MCORE2 is not set
 # CONFIG_MATOM is not set
+# CONFIG_MCORE2 is not set
 # CONFIG_MNEHALEM is not set
 # CONFIG_MWESTMERE is not set
 # CONFIG_MSILVERMONT is not set
@@ -360,9 +360,6 @@ CONFIG_MZEN3=y
 # CONFIG_MMETEORLAKE is not set
 # CONFIG_MEMERALDRAPIDS is not set
 # CONFIG_GENERIC_CPU is not set
-# CONFIG_GENERIC_CPU2 is not set
-# CONFIG_GENERIC_CPU3 is not set
-# CONFIG_GENERIC_CPU4 is not set
 # CONFIG_MNATIVE_INTEL is not set
 # CONFIG_MNATIVE_AMD is not set
 CONFIG_X86_INTERNODE_CACHE_SHIFT=6
