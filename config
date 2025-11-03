@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 6.17.3-gentoo Kernel Configuration
+# Linux/x86 6.17.6-gentoo Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="AMD clang version 17.0.6 (CLANG: AOCC_5.0.0-Build1377 2024_09_24)"
 CONFIG_GCC_VERSION=0
@@ -30,7 +30,7 @@ CONFIG_THREAD_INFO_IN_TASK=y
 CONFIG_INIT_ENV_ARG_LIMIT=32
 # CONFIG_COMPILE_TEST is not set
 # CONFIG_WERROR is not set
-CONFIG_LOCALVERSION=".016-aocc-bmq"
+CONFIG_LOCALVERSION=".017-aocc-bmq"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_BUILD_SALT=""
 CONFIG_HAVE_KERNEL_GZIP=y
